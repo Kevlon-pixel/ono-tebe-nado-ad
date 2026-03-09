@@ -32,11 +32,10 @@
 }
 
 .address {
-  justify-self: end;
   width: 240px;
   font-style: normal;
   font-size: 18px;
-  line-height: 1.4;
+  line-height: 1.35;
 }
 
 .address__link {
@@ -247,13 +246,6 @@
 }
 
 /*-------------FOOTER----------------*/
-
-.address {
-  width: 240px;
-  font-style: normal;
-  font-size: 18px;
-  line-height: 1.35;
-}
 
 .header .address {
   justify-self: end;
